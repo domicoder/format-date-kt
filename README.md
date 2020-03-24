@@ -1,5 +1,5 @@
 # Format Date in Kotlin Language
-Date Format in Kotlin: ZoneDateTime, LocalDateTime, Instant and Date.
+Date Format in Kotlin: **ZoneDateTime**, **LocalDateTime**, **Instant** and **Date**.
 
 #### Output
 
